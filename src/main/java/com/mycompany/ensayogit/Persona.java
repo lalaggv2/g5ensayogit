@@ -11,6 +11,8 @@ package com.mycompany.ensayogit;
 public class Persona {
 
     public Persona() {
+        int x = 3;
+        int y = 5;
     }
     
     String ele= "el elefante ya salio";

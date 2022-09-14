@@ -9,5 +9,6 @@ package com.mycompany.ensayogit;
  * @author CAD
  */
 public class ejemplo2 {
+    double dinero;
     
 }

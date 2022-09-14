@@ -9,5 +9,9 @@ package com.mycompany.ensayogit;
  * @author CAD
  */
 public class Persona {
+
+    public Persona() {
+    }
+    
     
 }

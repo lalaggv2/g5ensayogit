@@ -8,14 +8,8 @@ package com.mycompany.ensayogit;
  *
  * @author CAD
  */
-public class Persona {
-
-    public Persona() {
-        int x = 3;
-        int y = 5;
+public class Empleado {
+    public static void main(String[] args) {
+        System.out.println("Soy el empleado");
     }
-    
-    String ele= "el elefante ya salio";
-    int m=56;
-    
 }

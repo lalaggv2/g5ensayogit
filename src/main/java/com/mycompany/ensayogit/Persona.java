@@ -13,5 +13,5 @@ public class Persona {
     public Persona() {
     }
     
-    
+    String ele= "el elefante ya salio";
 }
